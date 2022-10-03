@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saiakash23
 - 👀 I’m interested in Web development and App development
 - 🌱 I’m currently learning Front-End Web development
-- 💞️ I’m looking to collaborate on Open Source projects
+- 💞️ I’m looking to collaborate and contribute to Open Source projects
 - 📫 You can reach me at saiakash_b@srmap.edu.in 
 
 <!---
