@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
 
 import random
 num1 =random.randrange(1000, 10000)
@@ -48,16 +43,6 @@ else:
     if n2 == num1:
         print("You've become a Mastermind!")
         print("It took you only", ctr, "tries.")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
